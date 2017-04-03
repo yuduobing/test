@@ -1,0 +1,33 @@
+.a{
+background-color:blue;
+
+
+
+}
+.s1{
+
+
+background-color:yellow;
+
+
+
+width:200px;
+height:200px;
+
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0
+}
+
+li
+{
+display:inline;
+}
+ul{
+  position: absolute;
+  left:400px;
+  top: 80px;
+}

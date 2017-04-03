@@ -1,0 +1,48 @@
+<font size="" color=""></font><html>
+<head>
+<title>你好我是余多彬</title>
+
+
+<link rel = "stylesheet" type = "text/css" href = "../css/style.css">
+
+
+</head>
+ 
+<body>
+<img src="5.png" alt="我是猪" width="400px" height="60px" align="center"></dr>
+<div class="s1"><img src="(2).jpg" alt="我是猪" width="900px" height="400px" align="center"></div>
+
+
+
+<ul>
+<li><a >首页</a ></li>
+<li><a >新闻公告</a ></li>
+<li><a >技术标准</a ></li>
+<li><a >法律法规</a ></li>
+<li><a >查询统计</a ></li>
+<li><a >下载中心</a ></li>
+<li><a >关于cfes</a ></li>
+</ul>
+
+
+
+
+
+<div class="s1"><img src="images\4.png" alt="我是猪" width="900px" height="800px" align="center"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
